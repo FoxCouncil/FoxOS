@@ -1,0 +1,1 @@
+docker build buildenv -t foxos-buildenv
